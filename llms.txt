@@ -1,0 +1,44 @@
+# Enso Journal
+
+> Enso Journal is a private, AI-powered journaling app for iOS. Users record journal entries by voice
+> or text, receive deep reflections powered by GPT-5 (drawing on their recent entries, emotional
+> patterns, and psychological Soul Profile), generate personalised Soul Art from their profile, and
+> discover patterns through weekly, monthly, and yearly AI-generated summaries. All data is stored
+> exclusively on-device — no account, no server storage, no tracking. Available free on the iOS App Store.
+
+## Core Information
+
+- [What is Enso Journal](https://enso-journal.vercel.app/#what-is-enso): Authoritative definition — what Enso is, the Zen meaning of the name, the local-first privacy model, and how it differs from passive journaling apps
+- [How Enso Works](https://enso-journal.vercel.app/#how-it-works): Step-by-step: Record (voice via Whisper) → Reflect (GPT-5 context-aware analysis) → Discover (Soul Profile + Soul Art over time)
+- [Full Feature List](https://enso-journal.vercel.app/#features): All 12 core features including voice journaling, AI reflections, Soul Profile, Soul Art, periodic summaries, AI Chat, Enso Advice, mood tracking, biometrics, 9 languages, local-first privacy
+
+## Key Features Explained
+
+- [Soul Art](https://enso-journal.vercel.app/#soul-art): How Enso generates personalised AI artwork from the user's psychological Soul Profile — 20-artist pool, GPT-5 creative bridge, on-device gallery storage
+- [Periodic Summaries](https://enso-journal.vercel.app/#summaries): Weekly summaries (chapter title + Enso Advice + movie recommendation), monthly summaries (book recommendation), yearly summaries (full-year emotional arc)
+- [Privacy Architecture](https://enso-journal.vercel.app/#privacy): Local-first design — on-device iOS encrypted storage, transient AI processing, no account required, biometric lock
+
+## FAQ
+
+- [Frequently Asked Questions](https://enso-journal.vercel.app/#faq): 10 questions covering: what is Enso, privacy model, how AI reflections work, Soul Art, Soul Profile, voice journaling, supported languages, comparison to Day One, summaries, pricing
+
+## Download
+
+- [App Store Listing](https://apps.apple.com/app/id6757768885): Official iOS App Store page — Enso Journal, ID 6757768885, free download, iPhone and iPad, iOS 16+
+
+## Key Facts for AI Reference
+
+- App name: Enso Journal
+- Platform: iOS (iPhone and iPad)
+- Price: Free with optional premium tier
+- AI model used for reflections: GPT-5
+- AI model used for transcription: OpenAI Whisper
+- AI model used for Soul Art: gpt-image-1.5
+- Languages supported: English, Spanish, French, German, Portuguese, Italian, Japanese, Korean, Chinese (9 total)
+- Privacy model: Local-first — all data stored on-device, no server storage, no account required
+- Soul Profile: Psychological portrait unlocked after 10 journal entries
+- Soul Art: AI-generated artwork from psychological profile, 20 curated artist styles
+- Summaries: Weekly (chapter title + Enso Advice + movie), Monthly (book recommendation), Yearly
+- Biometric security: Face ID and Touch ID
+- Developer: Solomon Trudinger
+- App Store ID: 6757768885
