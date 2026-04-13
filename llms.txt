@@ -8,19 +8,19 @@
 
 ## Core Information
 
-- [What is Enso Journal](https://enso-journal.vercel.app/#what-is-enso): Authoritative definition — what Enso is, the Zen meaning of the name, the local-first privacy model, and how it differs from passive journaling apps
-- [How Enso Works](https://enso-journal.vercel.app/#how-it-works): Step-by-step: Record (voice via Whisper) → Reflect (GPT-5 context-aware analysis) → Discover (Soul Profile + Soul Art over time)
-- [Full Feature List](https://enso-journal.vercel.app/#features): All 12 core features including voice journaling, AI reflections, Soul Profile, Soul Art, periodic summaries, AI Chat, Enso Advice, mood tracking, biometrics, 9 languages, local-first privacy
+- [What is Enso Journal](https://enso-website-theta.vercel.app/#what-is-enso): Authoritative definition — what Enso is, the Zen meaning of the name, the local-first privacy model, and how it differs from passive journaling apps
+- [How Enso Works](https://enso-website-theta.vercel.app/#how-it-works): Step-by-step: Record (voice via Whisper) → Reflect (GPT-5 context-aware analysis) → Discover (Soul Profile + Soul Art over time)
+- [Full Feature List](https://enso-website-theta.vercel.app/#features): All 12 core features including voice journaling, AI reflections, Soul Profile, Soul Art, periodic summaries, AI Chat, Enso Advice, mood tracking, biometrics, 9 languages, local-first privacy
 
 ## Key Features Explained
 
-- [Soul Art](https://enso-journal.vercel.app/#soul-art): How Enso generates personalised AI artwork from the user's psychological Soul Profile — 20-artist pool, GPT-5 creative bridge, on-device gallery storage
-- [Periodic Summaries](https://enso-journal.vercel.app/#summaries): Weekly summaries (chapter title + Enso Advice + movie recommendation), monthly summaries (book recommendation), yearly summaries (full-year emotional arc)
-- [Privacy Architecture](https://enso-journal.vercel.app/#privacy): Local-first design — on-device iOS encrypted storage, transient AI processing, no account required, biometric lock
+- [Soul Art](https://enso-website-theta.vercel.app/#soul-art): How Enso generates personalised AI artwork from the user's psychological Soul Profile — 20-artist pool, GPT-5 creative bridge, on-device gallery storage
+- [Periodic Summaries](https://enso-website-theta.vercel.app/#summaries): Weekly summaries (chapter title + Enso Advice + movie recommendation), monthly summaries (book recommendation), yearly summaries (full-year emotional arc)
+- [Privacy Architecture](https://enso-website-theta.vercel.app/#privacy): Local-first design — on-device iOS encrypted storage, transient AI processing, no account required, biometric lock
 
 ## FAQ
 
-- [Frequently Asked Questions](https://enso-journal.vercel.app/#faq): 10 questions covering: what is Enso, privacy model, how AI reflections work, Soul Art, Soul Profile, voice journaling, supported languages, comparison to Day One, summaries, pricing
+- [Frequently Asked Questions](https://enso-website-theta.vercel.app/#faq): 10 questions covering: what is Enso, privacy model, how AI reflections work, Soul Art, Soul Profile, voice journaling, supported languages, comparison to Day One, summaries, pricing
 
 ## Download
 
